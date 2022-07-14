@@ -1,0 +1,3 @@
+rootProject.name = 'meta-msa'
+include 'gateway'
+include 'demo-server1'
